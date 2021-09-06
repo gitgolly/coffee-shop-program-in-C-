@@ -1,0 +1,16 @@
+/home/jones/Desktop/lisp_stuff/bin/Debug/net5.0/lisp_stuff
+/home/jones/Desktop/lisp_stuff/bin/Debug/net5.0/lisp_stuff.deps.json
+/home/jones/Desktop/lisp_stuff/bin/Debug/net5.0/lisp_stuff.runtimeconfig.json
+/home/jones/Desktop/lisp_stuff/bin/Debug/net5.0/lisp_stuff.runtimeconfig.dev.json
+/home/jones/Desktop/lisp_stuff/bin/Debug/net5.0/lisp_stuff.dll
+/home/jones/Desktop/lisp_stuff/bin/Debug/net5.0/ref/lisp_stuff.dll
+/home/jones/Desktop/lisp_stuff/bin/Debug/net5.0/lisp_stuff.pdb
+/home/jones/Desktop/lisp_stuff/obj/Debug/net5.0/lisp_stuff.csprojAssemblyReference.cache
+/home/jones/Desktop/lisp_stuff/obj/Debug/net5.0/lisp_stuff.GeneratedMSBuildEditorConfig.editorconfig
+/home/jones/Desktop/lisp_stuff/obj/Debug/net5.0/lisp_stuff.AssemblyInfoInputs.cache
+/home/jones/Desktop/lisp_stuff/obj/Debug/net5.0/lisp_stuff.AssemblyInfo.cs
+/home/jones/Desktop/lisp_stuff/obj/Debug/net5.0/lisp_stuff.csproj.CoreCompileInputs.cache
+/home/jones/Desktop/lisp_stuff/obj/Debug/net5.0/lisp_stuff.dll
+/home/jones/Desktop/lisp_stuff/obj/Debug/net5.0/ref/lisp_stuff.dll
+/home/jones/Desktop/lisp_stuff/obj/Debug/net5.0/lisp_stuff.pdb
+/home/jones/Desktop/lisp_stuff/obj/Debug/net5.0/lisp_stuff.genruntimeconfig.cache

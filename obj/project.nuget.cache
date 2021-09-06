@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6pk/SWleLSIWRfFAzUY/4O5jG7MjUScs6lMEPUvBY8M+mUzAAQQ9zVisM28lXREd5TYUwALfmAvRxZ+ErwhOdA==",
+  "success": true,
+  "projectFilePath": "/home/jones/Desktop/lisp_stuff/lisp_stuff.csproj",
+  "expectedPackageFiles": [
+    "/home/jones/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
