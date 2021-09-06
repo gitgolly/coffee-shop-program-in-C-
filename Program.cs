@@ -1,3 +1,5 @@
+// A Coffee Shop Program in C#.
+
 using System;
 using System.Threading;
 
@@ -27,6 +29,7 @@ namespace lisp_stuff
         {
           Console.WriteLine(item);
         }
+       
         Console.WriteLine("What item would you like?");
 
         var order = Console.ReadLine();
